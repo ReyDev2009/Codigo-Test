@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    background-color: black;
+}
+.presentacion{
+    border-color:   red;
+    border-style: solid;
+    text-decoration: white;
+    font-family: serif;
+}
+header{
+    font-family: serif;
+    display: flex;
+}
